@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testApi" duration-ms="5221" started-at="2018-09-11T12:41:15Z" finished-at="2018-09-11T12:41:20Z">
+    <groups>
+    </groups>
+    <test name="Envision Functional Test" duration-ms="5221" started-at="2018-09-11T12:41:15Z" finished-at="2018-09-11T12:41:20Z">
+      <class name="com.mycom.git.testRestApi">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="beforeClass" is-config="true" duration-ms="9" started-at="2018-09-11T12:41:15Z" finished-at="2018-09-11T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="f" duration-ms="0" started-at="2018-09-11T12:41:15Z" data-provider="dp" finished-at="2018-09-11T12:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="f" duration-ms="0" started-at="2018-09-11T12:41:15Z" data-provider="dp" finished-at="2018-09-11T12:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="firstf()[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="firstf" duration-ms="1" started-at="2018-09-11T12:41:15Z" finished-at="2018-09-11T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstf -->
+        <test-method status="PASS" signature="getBodyAndHeadTest()[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="getBodyAndHeadTest" duration-ms="2915" started-at="2018-09-11T12:41:15Z" finished-at="2018-09-11T12:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBodyAndHeadTest -->
+        <test-method status="PASS" signature="secondf()[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="secondf" duration-ms="1162" started-at="2018-09-11T12:41:18Z" finished-at="2018-09-11T12:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondf -->
+        <test-method status="PASS" signature="testPost()[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="testPost" duration-ms="1115" started-at="2018-09-11T12:41:19Z" finished-at="2018-09-11T12:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mycom.git.testRestApi@1e67b872]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-09-11T12:41:20Z" finished-at="2018-09-11T12:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mycom.git.testRestApi -->
+    </test> <!-- Envision Functional Test -->
+  </suite> <!-- testApi -->
+</testng-results>
