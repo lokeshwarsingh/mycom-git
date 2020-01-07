@@ -34,6 +34,7 @@ public class testRestApi {
 			System.out.println("Response getStatusLine is =>  " + response.getStatusLine());
 			System.out.println("Response code is =>  " + response.getStatusCode());
 			System.out.println("Response Body is =>  " + responseBody);
+		    System.out.println("Response Body is =>  " + responseBody);
 		 
 	  }	
 	 
